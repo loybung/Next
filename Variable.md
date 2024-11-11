@@ -108,7 +108,7 @@
 # Function
 | Variable  | Result | Description |
 | ------- |:------:| ----------- |
-| {RANDOM(TEXT)} | TEXT | สุ่มข้อความตามกำหนด ตัวอย่าง {RANDOM(1,2,3,4,5,)} สุ่มเลขจาก 1-5 |
+| {RANDOM(TEXT)} | TEXT | สุ่มข้อความตามกำหนด ตัวอย่าง {RANDOM(1,2,3,4,5)} สุ่มเลขจาก 1-5 |
 | {UPPERCASE(text)} | TEXT | เปลี่ยนข้อความเป็นตัวพิมพ์ใหญ่ |
 | {LOWERCASE(TEXT)} | text | เปลี่ยนข้อความเป็นตัวพิมพ์เล็ก |
 | {F1(TEXT)} | > | ๐-๙ ( Number only ) |
